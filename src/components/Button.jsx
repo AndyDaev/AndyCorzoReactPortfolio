@@ -1,6 +1,14 @@
 import React from 'react'
 
 const Button = ({ title, id, rightIcon, leftIcon, containerClass }) => {
+  handleClick => {
+    onclick => {
+      
+    }
+  }
+
+
+
   return (
     <button 
       id={id} 
